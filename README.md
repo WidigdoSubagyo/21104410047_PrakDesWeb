@@ -12,7 +12,7 @@ Kampus  : Universitas Islam Balitar
 
 ## 🤓 Author
 
-- [@vierynugroho](https://github.com/vierynugroho)
+- [@widgdo](https://github.com/WidigdoSubagyo)
 
 ## 🚑 Penting!
 
@@ -22,9 +22,9 @@ Kampus  : Universitas Islam Balitar
 
 ## 🔗 Live Preview Tugas
 
-- Pertemuan 1 : [Replit](https://replit.com/@VIERYNUGROHO/pertemuan1) - [Codepen](https://codepen.io/collection/yrpxQg)
+- Pertemuan 1 :
 
-- Pertemuan 2&3 : [Replit](https://replit.com/@VIERYNUGROHO/Pertemuan2-3) - [Codepen](https://codepen.io/collection/MgzqMO)
+- Pertemuan 2&3 : 
 
 - Pertemuan 4 : [On Proggress]
 
