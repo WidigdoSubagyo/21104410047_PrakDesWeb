@@ -22,10 +22,10 @@ Kampus  : Universitas Islam Balitar
 
 ## 🔗 Live Preview Tugas
 
-- Pertemuan 1 :
+- Pertemuan 1 : [Codepen](https://codepen.io/collection/eJyPBV)
 
-- Pertemuan 2&3 : 
+- Pertemuan 2&3 : [Codepen](https://codepen.io/collection/NqEZxy)
 
-- Pertemuan 4 : [On Proggress]
+- Pertemuan 4 : [Codepen](https://codepen.io/collection/eJyQmx)
 
 
